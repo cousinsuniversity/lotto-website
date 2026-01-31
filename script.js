@@ -1,11 +1,11 @@
 // Firebase Configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyC6sV6a9-2V6v6V6v6v6v6v6v6v6v6v6v6",
-    authDomain: "lotto-app-production.firebaseapp.com",
-    projectId: "lotto-app-production",
-    storageBucket: "lotto-app-production.appspot.com",
-    messagingSenderId: "123456789012",
-    appId: "1:123456789012:web:abcdef1234567890abcdef"
+    apiKey: "AIzaSyDVSfJb5iT6pIqaAUWC51AVRmuA4QPu6JA",
+    authDomain: "test-lotto-b316b.firebaseapp.com",
+    projectId: "test-lotto-b316b",
+    storageBucket: "test-lotto-b316b.firebasestorage.app",
+    messagingSenderId: "757538212550",
+    appId: "1:757538212550:web:6b71c6c49c1fee5610e5c7"
 };
 
 // Initialize Firebase
